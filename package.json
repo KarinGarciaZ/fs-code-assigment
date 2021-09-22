@@ -1,0 +1,22 @@
+{
+  "name": "fs-code-assigment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cleanse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinGarciaZ/fs-code-assigment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinGarciaZ/fs-code-assigment/issues"
+  },
+  "homepage": "https://github.com/KarinGarciaZ/fs-code-assigment#readme",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
